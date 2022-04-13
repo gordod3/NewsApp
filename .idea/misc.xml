@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Geektech/NewsApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.196" />
         <entry key="..\:/Geektech/NewsApp/app/src/main/res/drawable/ic_fragment_home_fabAdd.xml" value="0.239" />
         <entry key="..\:/Geektech/NewsApp/app/src/main/res/drawable/ic_fragment_home_fab_add.xml" value="0.196" />
+        <entry key="..\:/Geektech/NewsApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.196" />
         <entry key="..\:/Geektech/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Geektech/NewsApp/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Geektech/NewsApp/app/src/main/res/layout/fragment_news.xml" value="0.18802083333333333" />
