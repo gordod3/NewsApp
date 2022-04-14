@@ -1,7 +1,7 @@
 package kg.geektech.newsapp.ui.home;
 
-import static kg.geektech.newsapp.ui.NewsFragment.KEY_FRAGMENT_NEWS_MODEL;
-import static kg.geektech.newsapp.ui.NewsFragment.RK_FRAGMENT_NEWS_BUNDLE;
+import static kg.geektech.newsapp.ui.news.NewsFragment.KEY_FRAGMENT_NEWS_MODEL;
+import static kg.geektech.newsapp.ui.news.NewsFragment.RK_FRAGMENT_NEWS_BUNDLE;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -18,7 +18,7 @@ import androidx.navigation.Navigation;
 
 import kg.geektech.newsapp.R;
 import kg.geektech.newsapp.databinding.FragmentHomeBinding;
-import kg.geektech.newsapp.models.NewsViewModel;
+import kg.geektech.newsapp.ui.news.NewsViewModel;
 
 public class HomeFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package kg.geektech.newsapp.models;
+package kg.geektech.newsapp.ui.news;
 
 import java.io.Serializable;
 

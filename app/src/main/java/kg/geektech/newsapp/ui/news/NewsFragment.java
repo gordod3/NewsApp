@@ -1,4 +1,4 @@
-package kg.geektech.newsapp.ui;
+package kg.geektech.newsapp.ui.news;
 
 import android.os.Bundle;
 
@@ -14,7 +14,6 @@ import android.view.ViewGroup;
 
 import kg.geektech.newsapp.R;
 import kg.geektech.newsapp.databinding.FragmentNewsBinding;
-import kg.geektech.newsapp.models.NewsViewModel;
 
 public class NewsFragment extends Fragment {
     // Решил добавить статичный стринг чтобы точно не напартачить с названием ключа в будущем.

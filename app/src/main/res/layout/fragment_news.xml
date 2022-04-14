@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context=".ui.NewsFragment">
+    tools:context=".ui.news.NewsFragment">
 
     <EditText
         android:id="@+id/fragment_news_editTextTitle"
